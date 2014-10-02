@@ -1,0 +1,17 @@
+/* CSS I-PLANNER */
+
+body {font-family: sans-serif, Arial, Helvetica, Verdana; background-color: #ffffff;background-image: url(../images/back.jpg);background-repeat: no-repeat;background-attachment: fixed;background-position: 0% 0%;}
+
+#home {margin-left: 20px;margin-top:20px;font-size:13px;}
+
+.cesar {color:#377783;}
+
+.profissao {color:#414141;}
+
+.profissao a{color:#414141;text-decoration:none;}
+
+.msn {color:#58883C;}
+
+.twitter a{color:#1EC6F5;text-decoration:none;}
+
+.facebook a{color:#3B5998;text-decoration:none;}
